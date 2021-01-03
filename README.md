@@ -1,12 +1,13 @@
 ### Hi there 👋
 I'm **darkerhaunter**. 
 
-#You may know me as darkhaunter or simply dark
+You may know me as darkhaunter or simply dark
 
-#💬 Ask me anything
+💬 Ask me anything
 
-#I main Java and Python
-#I love CTF's
+I main Java, HTML, CSS, Angular, etc.
+
+I love CTF's
 
 ##📫 How to reach me: I'm _**darkerhaunter#6185**_ on discord! Im up to chat!
 
