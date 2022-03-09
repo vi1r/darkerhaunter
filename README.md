@@ -5,11 +5,12 @@ You may know me as darkhaunter or simply dark
 
 💬 Ask me anything
 
-I main Java, HTML, CSS, Angular, etc.
+
 
 I love CTF's
 
-##📫 How to reach me: I'm _**darkerhaunter#6185**_ on discord! Im up to chat!
+##📫 How to reach me: I'm _**darker#0001**_ on discord! Im up to chat!
+This is an alt account :>
 
 
 
