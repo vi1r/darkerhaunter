@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm **darkerhaunter**. 
 
-You may know me as darkhaunter or simply dark
+You may know me as darkhaunter or simply darker or even vir
 
 💬 Ask me anything
 
@@ -11,6 +11,7 @@ I love CTF's
 
 ##📫 How to reach me: I'm _**darker#0001**_ on discord! Im up to chat!
 This is an alt account :>
+most repos privated 
 
 
 
